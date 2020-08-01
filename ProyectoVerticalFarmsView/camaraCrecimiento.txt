@@ -1,0 +1,11 @@
+2080;5;Espinaca;Media;si;Good
+25;2;Rabano;Pequenia;no;Regular
+450;10;Pepino;Medianaso;no;Bueno
+170;5;DE AGUACATE;INICIAL;si;Buenasooo
+123;123;asdsa;asdsad;dasdsad;asdadsad
+124;123;asdd;saddsa;asdsad;asddsdsa
+223;14;asdfad;asdf;assff;asdf
+224;12;asdasd;sadsadsa;sadsadsadsad;dsadsadasdds
+224;12;dsad;asdsadasd;asdasdsadas;dasdsadsaasda
+125;515;;;;
+126;1;sadas;asdsad;assadsa;dsadsadsa

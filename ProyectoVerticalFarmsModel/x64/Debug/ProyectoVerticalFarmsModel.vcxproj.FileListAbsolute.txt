@@ -1,0 +1,4 @@
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\x64\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\x64\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\x64\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\x64\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache

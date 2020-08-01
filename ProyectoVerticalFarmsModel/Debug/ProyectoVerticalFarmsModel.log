@@ -1,0 +1,8 @@
+﻿  CamaraCrecimiento.cpp
+  Estacion.cpp
+  Usuario.cpp
+  Wiki.cpp
+  Generando código...
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\Estacion.cpp(79): warning C4715: 'ProyectoVerticalFarmsModel::Estacion::getCamaraXCodigo': no todas las rutas de acceso de control devuelven un valor
+  CamaraCrecimiento.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProyectoVerticalFarmsModel.vcxproj -> C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\Debug\ProyectoVerticalFarmsModel.dll

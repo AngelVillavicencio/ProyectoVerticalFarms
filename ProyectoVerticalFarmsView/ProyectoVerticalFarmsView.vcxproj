@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="frmAgregarEncargadoAEstacion.cpp" />
+    <ClCompile Include="frmCrearEstacion.cpp" />
+    <ClCompile Include="frmDelegarEstaciones.cpp" />
+    <ClCompile Include="frmEditarCamaraCrecimiento.cpp" />
+    <ClCompile Include="frmEditarEstacion.cpp" />
+    <ClCompile Include="frmEditarWiki.cpp" />
+    <ClCompile Include="frmMantCamaraCrecimiento1.cpp" />
+    <ClCompile Include="frmMantEstacion.cpp" />
+    <ClCompile Include="frmMantWiki.cpp" />
+    <ClCompile Include="frmNuevoCamaraCrecimiento.cpp" />
+    <ClCompile Include="frmNuevoWiki.cpp" />
+    <ClCompile Include="frmPaginaPrincipal.cpp" />
+    <ClCompile Include="frmParametros.cpp" />
+    <ClCompile Include="frmPrincipal.cpp" />
+    <ClCompile Include="frmRecuperarContrasena.cpp" />
+    <ClCompile Include="frmRegistroUsuario.cpp" />
+    <ClCompile Include="frmUsuarios.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="frmAgregarEncargadoAEstacion.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmCrearEstacion.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmDelegarEstaciones.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmEditarCamaraCrecimiento.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmEditarEstacion.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmEditarWiki.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmMantCamaraCrecimiento1.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmMantEstacion.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmMantWiki.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmNuevoCamaraCrecimiento.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmNuevoWiki.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmPaginaPrincipal.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmParametros.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmPrincipal.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmRecuperarContrasena.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmRegistroUsuario.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmUsuarios.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAgregarEncargadoAEstacion.resx">
+      <DependentUpon>frmAgregarEncargadoAEstacion.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrearEstacion.resx">
+      <DependentUpon>frmCrearEstacion.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDelegarEstaciones.resx">
+      <DependentUpon>frmDelegarEstaciones.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarCamaraCrecimiento.resx">
+      <DependentUpon>frmEditarCamaraCrecimiento.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarEstacion.resx">
+      <DependentUpon>frmEditarEstacion.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarWiki.resx">
+      <DependentUpon>frmEditarWiki.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantCamaraCrecimiento1.resx">
+      <DependentUpon>frmMantCamaraCrecimiento1.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantEstacion.resx">
+      <DependentUpon>frmMantEstacion.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantWiki.resx">
+      <DependentUpon>frmMantWiki.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNuevoCamaraCrecimiento.resx">
+      <DependentUpon>frmNuevoCamaraCrecimiento.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNuevoWiki.resx">
+      <DependentUpon>frmNuevoWiki.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaginaPrincipal.resx">
+      <DependentUpon>frmPaginaPrincipal.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParametros.resx">
+      <DependentUpon>frmParametros.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRecuperarContrasena.resx">
+      <DependentUpon>frmRecuperarContrasena.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistroUsuario.resx">
+      <DependentUpon>frmRegistroUsuario.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.h</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProyectoVerticalFarmsController\ProyectoVerticalFarmsController.vcxproj">
+      <Project>{e19bb682-d20b-4398-8d30-2d2e7b7580e9}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\ProyectoVerticalFarmsModel\ProyectoVerticalFarmsModel.vcxproj">
+      <Project>{c139a7cb-2372-4913-9427-2a7b0650af97}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{4E2357C2-CE2A-44E9-932F-031E619E3DE2}</ProjectGuid>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <Keyword>ManagedCProj</Keyword>
+    <RootNamespace>ProyectoVerticalFarmsView</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsController\x64\Debug\ProyectoVerticalFarmsController.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsController\x64\Debug\ProyectoVerticalFarmsController.vcxproj.CopyComplete
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsController\x64\Debug\ProyectoVerticalFarmsController.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsController\x64\Debug\ProyectoVerticalFarmsController.vcxproj.CopyComplete
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsController\x64\Debug\ProyectoVerticalFarmsController.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsController\x64\Debug\ProyectoVerticalFarmsController.vcxproj.CopyComplete
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsController\x64\Debug\ProyectoVerticalFarmsController.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsController\x64\Debug\ProyectoVerticalFarmsController.vcxproj.CopyComplete

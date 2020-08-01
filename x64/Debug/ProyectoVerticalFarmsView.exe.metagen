@@ -1,0 +1,112 @@
+  ProyectoVerticalFarmsView.frmAgregarEncargadoAEstacion.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmCrearEstacion.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmDelegarEstaciones.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmEditarCamaraCrecimiento.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmEditarEstacion.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmEditarWiki.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmMantCamaraCrecimiento1.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmMantEstacion.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmMantWiki.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmNuevoCamaraCrecimiento.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmNuevoWiki.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmPaginaPrincipal.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmParametros.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmPrincipal.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmRecuperarContrasena.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmRegistroUsuario.resources - Embedded, ContainedInManifestFile, 
+  ProyectoVerticalFarmsView.frmUsuarios.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly ProyectoVerticalFarmsView, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly ProyectoVerticalFarmsController, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly ProyectoVerticalFarmsModel, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ProyectoVerticalFarmsView.frmAgregarEncargadoAEstacion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(ProyectoVerticalFarmsController.GestorUsuario): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmUsuarios: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, ProyectoVerticalFarmsController.GestorUsuario): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(ProyectoVerticalFarmsController.GestorUsuario, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmCrearEstacion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(ProyectoVerticalFarmsController.GestorEstacion, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmDelegarEstaciones: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(ProyectoVerticalFarmsController.GestorEstacion, ProyectoVerticalFarmsController.GestorUsuario, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmEditarCamaraCrecimiento: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(ProyectoVerticalFarmsController.GestorEstacion, ProyectoVerticalFarmsModel.CamaraCrecimiento, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmEditarEstacion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32, ProyectoVerticalFarmsController.GestorEstacion): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(ProyectoVerticalFarmsController.GestorEstacion, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmEditarWiki: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(ProyectoVerticalFarmsController.GestorWiki, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmNuevoCamaraCrecimiento: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(ProyectoVerticalFarmsController.GestorEstacion, Int32, ProyectoVerticalFarmsController.GestorWiki): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmMantCamaraCrecimiento1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmMantEstacion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmNuevoWiki: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(ProyectoVerticalFarmsController.GestorWiki): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmMantWiki: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(ProyectoVerticalFarmsController.GestorWiki): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmMantCamaraCrecimiento: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmParametros: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmPaginaPrincipal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(ProyectoVerticalFarmsController.GestorUsuario, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmRegistroUsuario: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(ProyectoVerticalFarmsController.GestorUsuario): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmRecuperarContrasena: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(ProyectoVerticalFarmsController.GestorUsuario): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ProyectoVerticalFarmsView.frmPrincipal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

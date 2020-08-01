@@ -1,0 +1,117 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly ProyectoVerticalFarmsController, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly ProyectoVerticalFarmsModel, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ProyectoVerticalFarmsController.GestorCamaraCrecimiento: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    agregarCamaraCrecimiento(CamaraCrecimiento): PrivateScope, Public, HideBySig
+    editarCamaraCrecimiento(Int32, CamaraCrecimiento): PrivateScope, Public, HideBySig
+    eliminarCamaraCrecimiento(Int32): PrivateScope, Public, HideBySig
+    buscaCamaraCrecimientoXtipoCultivo(String): PrivateScope, Public, HideBySig
+    buscaIndiceCamaraCrecimientoXid(Int32): PrivateScope, Public, HideBySig
+    buscaCamaraCrecimientoXindice(Int32): PrivateScope, Public, HideBySig
+    cantidad(): PrivateScope, Public, HideBySig
+    cargarDatosCamaraCrecimiento(): PrivateScope, Public, HideBySig
+    guardarDatosCamaraCrecimiento(): PrivateScope, Public, HideBySig
+    buscaCamaraCrecimientoXfaseCrecimiento(String): PrivateScope, Public, HideBySig
+    buscaIndiceCamaraCrecimientoXnumeroPiso(Int32): PrivateScope, Public, HideBySig
+Class ProyectoVerticalFarmsController.GestorEstacion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    agregarEstacion(Estacion): PrivateScope, Public, HideBySig
+    editarEstacion(Int32, Estacion): PrivateScope, Public, HideBySig
+    eliminarEstacion(Int32): PrivateScope, Public, HideBySig
+    ObtenerCantidadDeEstaciones(): PrivateScope, Public, HideBySig
+    cantidadCamaras(): PrivateScope, Public, HideBySig
+    getlistaEstaciones(): PrivateScope, Public, HideBySig
+    buscaEstacionXindice(Int32): PrivateScope, Public, HideBySig
+    buscaEstacionXCodigo(Int32): PrivateScope, Public, HideBySig
+    EstacionesEncargadas(): PrivateScope, Public, HideBySig
+    IndexEstacion(Int32): PrivateScope, Public, HideBySig
+    eliminarEstacionXcodigo(Int32): PrivateScope, Public, HideBySig
+    GuardarDatosEstacion(): PrivateScope, Public, HideBySig
+    guardarDatosCamaraCrecimiento(): PrivateScope, Public, HideBySig
+    GuardarDetalleEstacion(): PrivateScope, Public, HideBySig
+    CargarDatosEstacion(): PrivateScope, Public, HideBySig
+    cargarCamarasDeCrecimiento(): PrivateScope, Public, HideBySig
+    cargarDetalleEstacion(): PrivateScope, Public, HideBySig
+    getListaDeCamaraDeCrecimiento(): PrivateScope, Public, HideBySig
+    agregarCamaraCrecimiento(CamaraCrecimiento): PrivateScope, Public, HideBySig
+    editarCamaraCrecimiento(Int32, CamaraCrecimiento): PrivateScope, Public, HideBySig
+    eliminarCamaraCrecimiento(Int32): PrivateScope, Public, HideBySig
+    buscaCamaraCrecimientoXtipoCultivo(String): PrivateScope, Public, HideBySig
+    buscaIndiceCamaraCrecimientoXid(Int32): PrivateScope, Public, HideBySig
+    buscaCamaraCrecimientoXindice(Int32): PrivateScope, Public, HideBySig
+    buscaCamaraCrecimientoXfaseCrecimiento(String): PrivateScope, Public, HideBySig
+    buscaIndiceCamaraCrecimientoXnumeroPiso(Int32): PrivateScope, Public, HideBySig
+    serializar(): PrivateScope, Public, HideBySig
+    deserializar(): PrivateScope, Public, HideBySig
+Class ProyectoVerticalFarmsController.GestorParametros: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Collections.Generic.List`1[ProyectoVerticalFarmsModel.Parametros] listaParametros : Public
+  Methods:
+    EscribirEnArchivo(): PrivateScope, Public, HideBySig
+    LeerDesdeArchivo(): PrivateScope, Public, HideBySig
+    ObtenerCantidad(): PrivateScope, Public, HideBySig
+    ObtenerParametroXindice(Int32): PrivateScope, Public, HideBySig
+Class ProyectoVerticalFarmsController.GestorTareasRelizadas: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Collections.Generic.List`1[ProyectoVerticalFarmsModel.TareaRealizada] listaRealizadas : Public
+  Methods:
+    ObtenerCantidad(): PrivateScope, Public, HideBySig
+    ObtenerTareaXIndice(Int32): PrivateScope, Public, HideBySig
+    AgregarTarea(TareaRealizada): PrivateScope, Public, HideBySig
+    EscribirEnArchivo(): PrivateScope, Public, HideBySig
+    LeerTareasRealizadasDesdeArchivo(): PrivateScope, Public, HideBySig
+    Serializar(): PrivateScope, Public, HideBySig
+    Deserializar(): PrivateScope, Public, HideBySig
+    BuscarTareaRelizadas(): PrivateScope, Public, HideBySig
+Class ProyectoVerticalFarmsController.GestorUsuario: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AgregarUsuario(Usuario): PrivateScope, Public, HideBySig
+    CargarUsuarios(): PrivateScope, Public, HideBySig
+    validarUsuario(String, String): PrivateScope, Public, HideBySig
+    ObtenerUsuarioXindice(Int32): PrivateScope, Public, HideBySig
+    ObtenerUsuarioXID(Int32): PrivateScope, Public, HideBySig
+    ObtenerIndiceXCorreo(String): PrivateScope, Public, HideBySig
+    ObtenerIndiceXID(Int32): PrivateScope, Public, HideBySig
+    cantidadUsuarios(): PrivateScope, Public, HideBySig
+    registrarUsuario(Usuario): PrivateScope, Public, HideBySig
+    cargarDatosUsuario(): PrivateScope, Public, HideBySig
+    guardarDatosUsuario(): PrivateScope, Public, HideBySig
+    verUsuarioDeListaXIndice(Int32): PrivateScope, Public, HideBySig
+    serializar(): PrivateScope, Public, HideBySig
+    deserializar(): PrivateScope, Public, HideBySig
+Class ProyectoVerticalFarmsController.GestorWiki: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Collections.Generic.List`1[ProyectoVerticalFarmsModel.Wiki] listaWiki : Public
+  Methods:
+    agregarWiki(Wiki): PrivateScope, Public, HideBySig
+    EditarWiki(Int32, Wiki): PrivateScope, Public, HideBySig
+    EliminarWiki(Int32): PrivateScope, Public, HideBySig
+    BuscarWikiXCodigo(Int32): PrivateScope, Public, HideBySig
+    ObtenerCantidad(): PrivateScope, Public, HideBySig
+    ObtenerWikiXindice(Int32): PrivateScope, Public, HideBySig
+    ObtenerWikiXCodigo(Int32): PrivateScope, Public, HideBySig
+    serealizar(): PrivateScope, Public, HideBySig
+    deserealizar(): PrivateScope, Public, HideBySig

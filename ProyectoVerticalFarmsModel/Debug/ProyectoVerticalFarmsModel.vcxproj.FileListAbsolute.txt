@@ -1,0 +1,8 @@
+C:\Users\ÁNGEL ARTURO\source\repos\MundoVegetal\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Proyecto\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\avance3\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\avance3\Nueva carpeta\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\avance3\Nueva carpeta\he mandado arreglar\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\avance3\Nueva carpeta\arreglado\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Prolpoo\arreglado\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsModel\Debug\ProyectoVerticalFarmsModel.vcxprojAssemblyReference.cache

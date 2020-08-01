@@ -1,0 +1,80 @@
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmAgregarEncargadoAEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmCrearEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmDelegarEstaciones.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarCamaraCrecimiento.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantCamaraCrecimiento1.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmNuevoCamaraCrecimiento.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmNuevoWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmPaginaPrincipal.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmParametros.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmPrincipal.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmRecuperarContrasena.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmRegistroUsuario.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmUsuarios.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxproj.GenerateResource.cache
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxproj.CopyComplete
+C:\Users\ÁNGEL ARTURO\Desktop\Grupo Agricultura Vertical-Entregable3\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmAgregarEncargadoAEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmCrearEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmDelegarEstaciones.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarCamaraCrecimiento.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantCamaraCrecimiento1.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmNuevoCamaraCrecimiento.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmNuevoWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmPaginaPrincipal.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmParametros.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmPrincipal.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmRecuperarContrasena.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmRegistroUsuario.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmUsuarios.resources
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxproj.GenerateResource.cache
+C:\Users\ÁNGEL ARTURO\Desktop\FINAL DARIEN\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxproj.CopyComplete
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmAgregarEncargadoAEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmCrearEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmDelegarEstaciones.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarCamaraCrecimiento.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantCamaraCrecimiento1.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmNuevoCamaraCrecimiento.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmNuevoWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmPaginaPrincipal.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmParametros.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmPrincipal.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmRecuperarContrasena.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmRegistroUsuario.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmUsuarios.resources
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxproj.GenerateResource.cache
+C:\Users\ÁNGEL ARTURO\Desktop\ENTREGA FINAL PRUEBA\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxproj.CopyComplete
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxprojAssemblyReference.cache
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmAgregarEncargadoAEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmCrearEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmDelegarEstaciones.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarCamaraCrecimiento.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmEditarWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantCamaraCrecimiento1.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantEstacion.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmMantWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmNuevoCamaraCrecimiento.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmNuevoWiki.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmPaginaPrincipal.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmParametros.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmPrincipal.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmRecuperarContrasena.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmRegistroUsuario.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.frmUsuarios.resources
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxproj.GenerateResource.cache
+C:\Users\ÁNGEL ARTURO\Desktop\Proyecto Agricultura Vertical\ProyectoVerticalFarms\ProyectoVerticalFarmsView\x64\Debug\ProyectoVerticalFarmsView.vcxproj.CopyComplete

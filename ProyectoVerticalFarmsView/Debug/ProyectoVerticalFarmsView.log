@@ -1,0 +1,32 @@
+﻿  frmMantCamaraCrecimiento1.cpp
+  frmNuevoCamaraCrecimiento.cpp
+  frmPaginaPrincipal.cpp
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(339,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(340,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(341,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(342,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(343,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(344,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(363,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(364,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(365,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(366,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(367,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(368,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  frmPrincipal.cpp
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(339,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(340,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(341,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(342,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(343,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmNuevoWiki.h(344,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(363,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(364,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(365,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(366,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(367,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmEditarWiki.h(368,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\ProyectoVerticalFarmsView\frmPrincipal.cpp(10,1): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generando código...
+  frmAgregarEncargadoAEstacion.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProyectoVerticalFarmsView.vcxproj -> C:\Users\ÁNGEL ARTURO\Desktop\LPOO\ProyectoVerticalFarms\Debug\ProyectoVerticalFarmsView.exe

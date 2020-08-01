@@ -1,0 +1,141 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly ProyectoVerticalFarmsModel, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ProyectoVerticalFarmsModel.Parametros: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Single, Single, Single): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Single temperatura : Public
+    Single humedad : Public
+    Single intensidadLuminosa : Public
+    System.ValueType objFecha DateTime IsBoxed : Public
+Class ProyectoVerticalFarmsModel.Wiki: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String, Single, Single, Single, Single, Single, Single, Single, Single, Single): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String tipoVegetal : Public
+    System.String nombrePlanta : Public
+    System.String tipoDeIluminacion : Public
+    Single temperaturaIdeal : Public
+    Single humedadIdeal : Public
+    Single IluminacionIdeal : Public
+    Single temperaturaMin : Public
+    Single temperaturaMax : Public
+    Single humedadMin : Public
+    Single humedadMax : Public
+    Single IluminacionMin : Public
+    Single IluminacionMax : Public
+Class ProyectoVerticalFarmsModel.TareaRealizada: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32, Int32, System.ValueType, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32, Int32, System.ValueType, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    Int32 codigoCamaraDeCrecimiento : Public
+    Int32 temporizador : Public
+    System.ValueType fecha DateTime IsBoxed : Public
+    System.String regado : Public
+    System.String Iluminacion : Public
+    System.String Ventilador : Public
+Class ProyectoVerticalFarmsModel.CamaraCrecimiento: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32, Int32, Int32, System.String, System.String, System.String, System.String, Int32, ProyectoVerticalFarmsModel.Wiki): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    Int32 codigoDeEstacion : Public
+    Int32 numerodePiso : Public
+    System.String tipoCultivo : Public
+    System.String fasedeCrecimiento : Public
+    System.String Estado : Public
+    System.String comentario : Public
+    Int32 codigoWiki : Public
+    ProyectoVerticalFarmsModel.Wiki objWiki : Public
+    System.Collections.Generic.List`1[ProyectoVerticalFarmsModel.Parametros] listaDeParametros : Public
+    System.Collections.Generic.List`1[ProyectoVerticalFarmsModel.TareaRealizada] listadetareasRealizadas : Public
+Class ProyectoVerticalFarmsModel.Estacion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String nombre : Public
+    System.String descripcion : Public
+    Int32 cantidadCamaras : Public
+    System.Collections.Generic.List`1[ProyectoVerticalFarmsModel.CamaraCrecimiento] listaCamaraCrecimiento : Public
+  Methods:
+    getCamaraXCodigo(Int32): PrivateScope, Public, HideBySig
+    ObtenerIndiceXcodigo(Int32): PrivateScope, Public, HideBySig
+    EditarCamaraXcodigo(Int32, CamaraCrecimiento): PrivateScope, Public, HideBySig
+    eliminarCamaraXcodigo(Int32): PrivateScope, Public, HideBySig
+Class ProyectoVerticalFarmsModel.Encargado: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String nombres : Public
+    System.String apellidoPaterno : Public
+    System.String apellidoMaterno : Public
+    System.String dni : Public
+    System.String correo : Public
+    System.String numCelular : Public
+    System.String fechadeIngreso : Public
+    System.String genero : Public
+    System.String fechadeNacimiento : Public
+    System.String contrasena : Public
+    System.String palabraClave : Public
+    System.String esAdmin : Public
+    System.Collections.Generic.List`1[ProyectoVerticalFarmsModel.Estacion] listadeEstaciones : Public
+Class ProyectoVerticalFarmsModel.administrador: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String nombres : Public
+    System.String apellidoPaterno : Public
+    System.String apellidoMaterno : Public
+    System.String dni : Public
+    System.String correo : Public
+    System.String numCelular : Public
+    System.String fechadeIngreso : Public
+    System.String genero : Public
+    System.String fechadeNacimiento : Public
+    System.String contrasena : Public
+    System.String palabraClave : Public
+    System.String esAdmin : Public
+    System.Collections.Generic.List`1[ProyectoVerticalFarmsModel.Estacion] listadeEstaciones : Public
+    System.Collections.Generic.List`1[ProyectoVerticalFarmsModel.Encargado] listadeEncargados : Public
+Class ProyectoVerticalFarmsModel.Usuario: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getId(): PrivateScope, Public, HideBySig
+    getNombres(): PrivateScope, Public, HideBySig
+    getApellidoPaterno(): PrivateScope, Public, HideBySig
+    getApellidoMaterno(): PrivateScope, Public, HideBySig
+    getDni(): PrivateScope, Public, HideBySig
+    getCorreo(): PrivateScope, Public, HideBySig
+    getNumCelular(): PrivateScope, Public, HideBySig
+    getFechaIngreso(): PrivateScope, Public, HideBySig
+    getGenero(): PrivateScope, Public, HideBySig
+    getAnioNacimiento(): PrivateScope, Public, HideBySig
+    getEsAdmin(): PrivateScope, Public, HideBySig
+    getContrasena(): PrivateScope, Public, HideBySig
+    getPalabraClave(): PrivateScope, Public, HideBySig
+    SetCorreo(String): PrivateScope, Public, HideBySig
+    SetContrasena(String): PrivateScope, Public, HideBySig
+    AgregarAListaEncargados(Usuario): PrivateScope, Public, HideBySig
+    AgregarAListaStation(Estacion): PrivateScope, Public, HideBySig
+    cantidadDeEncargados(): PrivateScope, Public, HideBySig
+    cantidadDeEstacionesEncargadas(): PrivateScope, Public, HideBySig
+    getUsuarioEncargadoDeLaLista(Int32): PrivateScope, Public, HideBySig
+    getEstacionEncargadaDeLaLista(Int32): PrivateScope, Public, HideBySig
+    EliminarDeListaDeEncargadosXCodigo(Int32): PrivateScope, Public, HideBySig
+    EliminarDeListaDeEstacionesXCodigo(Int32): PrivateScope, Public, HideBySig
